@@ -27,7 +27,8 @@ int main() {
     cout << "\nA value of 0 is NOT permissible for number 2 or number 4. Please run the program again and enter a nonzero value for those numbers." << endl;
   }
   else {
-    
+
+    //Process
     addition = num1 + num2; //addition
     subtraction = num1 - num2; //subtraction
     multiplication = num1 * num2; //multiplication
